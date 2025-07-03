@@ -87,10 +87,10 @@ O design mantém a estética oficial do Odoo:
 - **Performance** - Carregamento rápido e otimizado
 
 ### 📞 Contatos Integrados
-- **WhatsApp:** https://wa.me/244941473345
+- **WhatsApp:** https://wa.me/244956993264
 - **LinkedIn:** https://www.linkedin.com/in/chavesfilip
 - **Email:** info@itprati.ao
-- **Telefone:** +244 941 473 345
+- **Telefone:** +244 956 993 264
 
 ## 🔧 Tecnologias Utilizadas
 
