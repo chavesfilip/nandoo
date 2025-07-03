@@ -1,11 +1,11 @@
-# Fernandoo - Website Unificado
+# Nandoo - Website Unificado
 
-Este repositório contém o código-fonte completo do website unificado de Fernandoo, autoridade global em Odoo para grandes empresas. O projeto combina portfólio e landing page em uma única experiência web otimizada.
+Este repositório contém o código-fonte completo do website unificado de Nandoo, autoridade global em Odoo para grandes empresas. O projeto combina portfólio e landing page em uma única experiência web otimizada.
 
 ## 📁 Estrutura do Projeto
 
 ```
-fernandoo-website-unificado/
+Nandoo-website-unificado/
 ├── index.html              # Página principal unificada
 ├── assets/
 │   ├── css/
@@ -13,7 +13,7 @@ fernandoo-website-unificado/
 │   ├── js/
 │   │   └── script.js       # Scripts unificados
 │   └── images/
-│       ├── fernandoo_linkedin_profile.png
+│       ├── Nandoo_linkedin_profile.png
 │       ├── consultoria_icon.png
 │       ├── parametrizacao_icon.png
 │       └── suporte_icon.png
@@ -68,7 +68,7 @@ O design mantém a estética oficial do Odoo:
 ### Seções Principais
 1. **Hero Section** - "O seu negócio inteiro em uma plataforma"
 2. **Benefícios** - Por que grandes empresas escolhem Odoo
-3. **Sobre** - Perfil e credenciais de Fernandoo
+3. **Sobre** - Perfil e credenciais de Nandoo
 4. **Serviços** - 6 serviços especializados em Odoo
 5. **Casos de Sucesso** - Depoimentos com resultados
 6. **CTA** - Chamada para ação principal
@@ -89,7 +89,7 @@ O design mantém a estética oficial do Odoo:
 ### 📞 Contatos Integrados
 - **WhatsApp:** https://wa.me/244941473345
 - **LinkedIn:** https://www.linkedin.com/in/chavesfilip
-- **Email:** contato@fernandoo-odoo.com
+- **Email:** contato@Nandoo-odoo.com
 - **Telefone:** +244 941 473 345
 
 ## 🔧 Tecnologias Utilizadas
@@ -192,13 +192,13 @@ O design mantém a estética oficial do Odoo:
 ## 📞 Suporte
 
 Para dúvidas sobre o código ou personalização:
-- **Email:** contato@fernandoo-odoo.com
+- **Email:** contato@Nandoo-odoo.com
 - **WhatsApp:** +244 941 473 345
 - **LinkedIn:** https://www.linkedin.com/in/chavesfilip
 
 ## 📄 Licença
 
-Este projeto é propriedade de Fernandoo - Autoridade Global em Odoo.
+Este projeto é propriedade de Nandoo - Autoridade Global em Odoo.
 Todos os direitos reservados © 2024.
 
 ---

@@ -1,4 +1,4 @@
-// Website JavaScript - Fernandoo Odoo Expert
+// Website JavaScript - Nandoo Odoo Expert
 
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile menu toggle
