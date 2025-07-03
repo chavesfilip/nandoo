@@ -89,7 +89,7 @@ O design mantém a estética oficial do Odoo:
 ### 📞 Contatos Integrados
 - **WhatsApp:** https://wa.me/244941473345
 - **LinkedIn:** https://www.linkedin.com/in/chavesfilip
-- **Email:** contato@Nandoo-odoo.com
+- **Email:** info@itprati.ao
 - **Telefone:** +244 941 473 345
 
 ## 🔧 Tecnologias Utilizadas
