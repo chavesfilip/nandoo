@@ -1,17 +1,17 @@
 # Nandoo - Website Unificado
 
-Este repositório contém o código-fonte completo do website unificado de Nandoo, autoridade global em Odoo para grandes empresas. O projeto combina portfólio e landing page em uma única experiência web otimizada.
+Este repositório contém o código-fonte completo do website de Nandoo, autoridade global em Odoo para grandes empresas. O projeto combina portfólio e landing page em uma única experiência web otimizada.
 
 ## 📁 Estrutura do Projeto
 
 ```
 Nandoo-website-unificado/
-├── index.html              # Página principal unificada
+├── index.html              # Página principal
 ├── assets/
 │   ├── css/
-│   │   └── style.css       # Estilos unificados
+│   │   └── style.css       # Estilos
 │   ├── js/
-│   │   └── script.js       # Scripts unificados
+│   │   └── script.js       # Scripts
 │   └── images/
 │       ├── Nandoo_linkedin_profile.png
 │       ├── consultoria_icon.png
